@@ -1,4 +1,4 @@
-package com.example.sp20_bse_076_assi_1;
+package com.example.sp20_bse_050;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentTransaction;
@@ -6,6 +6,8 @@ import androidx.fragment.app.FragmentTransaction;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+
+import com.example.sp20_bse_050.R;
 
 public class MainActivity extends AppCompatActivity {
 

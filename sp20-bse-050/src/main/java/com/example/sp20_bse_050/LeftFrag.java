@@ -1,4 +1,4 @@
-package com.example.sp20_bse_076_assi_1;
+package com.example.sp20_bse_050;
 
 import android.os.Bundle;
 
@@ -7,6 +7,8 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.example.sp20_bse_050.R;
 
 /**
  * A simple {@link Fragment} subclass.

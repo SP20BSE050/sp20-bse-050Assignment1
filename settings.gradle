@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "SP20_BSE_076_ASSI-1"
-include ':app'
+include ':sp20-bse-050'
